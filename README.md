@@ -22,9 +22,9 @@ El juego genera un número aleatorio en un rango específico y desafía al usuar
 5. Reinicia el juego con el botón "Nuevo juego" cuando lo desees.
 
 ## Capturas de Pantalla
-![image](https://github.com/DanielSauerSoria/juego-numero-aleatorio/assets/107516686/af506986-d6d1-44af-a0fb-e556c0b45520)
-![image](https://github.com/DanielSauerSoria/juego-numero-aleatorio/assets/107516686/6cd0af6d-15c4-4bff-b318-6c48192e7b78)
-![image](https://github.com/DanielSauerSoria/juego-numero-aleatorio/assets/107516686/410f1bd3-ad8b-4749-9fe0-9b55f95799a4)
+![image](https://github.com/DanielSauerSoria/juego-numero-aleatorio/assets/107516686/471f30da-fa8d-44f0-b36a-0a114b08ddb6)
+![image](https://github.com/DanielSauerSoria/juego-numero-aleatorio/assets/107516686/b9bfd2e5-1ca9-4c00-abd2-4daeb3106e7a)
+![image](https://github.com/DanielSauerSoria/juego-numero-aleatorio/assets/107516686/4c824a2a-dd0a-427c-9718-276ada0514c9)
 
 ## Requisitos
 
